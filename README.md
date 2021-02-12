@@ -1,9 +1,9 @@
 ### Hi there, I'm Mohammed Farid Shawky - Senior Android Engieer at [Evntoo][Ewebsite] :wave:
-## I'm Developer!
-- :seedling: I’m currently learning everything :rolling_on_the_floor_laughing: .
+## I'm Senior Engineer!
+- :seedling: I’m currently learning everything to be engineer on senior level :rolling_on_the_floor_laughing: .
 - :dancers: I’m looking to establish my startup :muscle: .
 - :goal_net: 2021 Goals: Contribute more to Open Source projects and working hard every day.
-- :zap: Fun fact: I love to draw and play Piano .
+- :zap: Fun fact: I love to play football Zamalek FC and love to gaming everyday.
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
