@@ -1,26 +1,23 @@
-### Hi there, I'm Mohamed Farid Elsherbini - Senior Android Engineer at [CHECK24 DAS VERGLEICHSPORTAL][Ewebsite] 👋
+### Hi there, I'm <span style="color:blue">Mohamed Farid Elsherbini</span> - Senior Android Engineer at [CHECK24 DAS VERGLEICHSPORTAL][Ewebsite] 👋
 
 ## I'm a Senior Engineer!
-- 🌱 I’m constantly learning to grow even further as an engineer at the senior level 🤣.
-- 👫 I’m passionate about establishing my own startup 💪.
-- 🥅 2021 Goals: Contribute more to Open Source projects and work hard every day.
-- ⚡ Fun fact: I love playing football (Zamalek FC supporter!) and enjoy gaming daily.
+- 🌱 Continuously striving to advance my expertise and skills at the senior engineering level, embracing every opportunity to learn and grow. 🤣
+- 👫 Driven by a passion for innovation, I am actively working towards launching my own startup and bringing new ideas to life. 💪
+- 🥅 Ongoing goal: Increase contributions to Open Source projects, while maintaining a strong commitment to daily hard work and continuous improvement.
+- ⚡ Fun fact: I'm a dedicated football fan (proud Zamalek FC supporter!) and an avid gamer in my spare time.
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#ffffff;" />][linkedin]
-[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" style="color:#ffffff;" />][website]
-
-<br>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moelsherbini)
+- [![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](https://mohamedfaridelsherbini.com)
 
 ### Languages and Tools:
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color:#ffffff;" />
-<img align="left" alt="Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" style="color:#ffffff;" />
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="color:#ffffff;" />
-<img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" style="color:#ffffff;" />
-<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" style="color:#ffffff;" />
-<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" style="color:#ffffff;" />
-
-<br>
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Android](https://img.shields.io/badge/Android-green?style=flat-square&logo=android)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
 
 ---
 
