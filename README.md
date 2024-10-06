@@ -7,19 +7,18 @@
 - ⚡ Fun fact: I love playing football (Zamalek FC supporter!) and enjoy gaming daily.
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Website" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#ffffff;" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" style="color:#ffffff;" />][website]
 
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Android" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Java" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="SQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color:#ffffff;" />
+<img align="left" alt="Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" style="color:#ffffff;" />
+<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="color:#ffffff;" />
+<img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" style="color:#ffffff;" />
+<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" style="color:#ffffff;" />
+<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" style="color:#ffffff;" />
 
 <br>
 
